@@ -2,6 +2,7 @@
 propensi with &lt;3
 
 -Push ke branch masing-masing yo
+
 -Janlups pull dulu sebelum koding
 
 
@@ -17,4 +18,5 @@ Karena, composer gk bisa jalan di laravel yg bersifat salinan.
   4. Voila! Sekarang sudah bisa akses publik deh
 
 credit : TeteMacan & Bar&o
+
 -------------------
